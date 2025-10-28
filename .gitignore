@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Production build
+build/
+
+# Testing
+coverage/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+npm-debug.log*
+
+# macOS
+.DS_StoreX
